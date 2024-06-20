@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Button" type="Button"]
+anchor_right = 0.139648
+anchor_bottom = 0.14
+rect_min_size = Vector2( 40, 40 )
+toggle_mode = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
